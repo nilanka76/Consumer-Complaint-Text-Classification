@@ -79,6 +79,7 @@ To utilize the code, follow these steps:
 
 5. Refer to the code documentation and comments to understand each step of the process.
 
+
 ## Example
 
 To illustrate how the code operates, consider the following typical workflow:
@@ -91,7 +92,6 @@ To illustrate how the code operates, consider the following typical workflow:
 
 4. Utilize the trained model to predict the category of a new complaint text.
 
-For a detailed example, please refer to the [example section](#example) below.
 
 ## Conclusion
 
