@@ -1,5 +1,5 @@
 # Consumer Complaint Text Classification
-**Please Read the python notebook for Detailed explanation of each code.**
+**Please Read the python notebook for detailed explanation of each code.**
 [Google Colab link](https://colab.research.google.com/drive/1e3V_PtcRTNgAODTgkQz9COWQ-KTsdv3i?usp=sharing)
 
 This repository contains a fine-tuned LinearSVC model and a Python colab notebook for training, evaluating, and deploying a text classification model for consumer complaints. The model's purpose is to categorize consumer complaints into specific product categories - ["Credit reporting, repair, or other", "Debt collection", "Consumer Loan", "Mortgage"]. This README.md file provides comprehensive documentation, explaining the code's functionality, implementation, and usage.
@@ -9,12 +9,12 @@ This repository contains a fine-tuned LinearSVC model and a Python colab noteboo
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Code Overview](#code-overview)
-  - [1. Explanatory Data Analysis and Feature Engineering](#1-explanatory-data-analysis-and-deature-engineering)
-  - [2. Text Pre-processing](#2-text-pre-processing)
-  - [3. Selection of Multi Classification model](#3-selection-of-multi-classification-model-and-4-Comparison-of-model-performance)
-  - [4. Comparison of model performance](#3-selection-of-multi-classification-model-and-4-Comparison-of-model-performance)
-  - [5. Model Evaluation](#5-model-evaluation)
-  - [6. Model Deployment/Prediction](#6-model-deployment/Prediction)
+  - 1. Explanatory Data Analysis and Feature Engineering
+  - 2. Text Pre-processing
+  - 3. Selection of Multi Classification model
+  - 4. Comparison of model performance
+  - 5. Model Evaluation
+  - 6. Model Deployment/Prediction
 - [Usage](#usage)
 - [Example](#example)
 - [Conclusion](#conclusion)
