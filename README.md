@@ -9,12 +9,12 @@ This repository contains a fine-tuned LinearSVC model and a Python colab noteboo
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Code Overview](#code-overview)
-  - Explanatory Data Analysis and Feature Engineering
-  - Text Pre-processing
-  - Selection of Multi Classification model
-  - Comparison of model performance
-  - Model Evaluation
-  - Model Deployment/Prediction
+  - [1. Explanatory Data Analysis and Feature Engineering](#1-explanatory-data-analysis-and-feature-engineering)
+  - [2. Text Pre-processing](#2-text-pre-processing)
+  - [3. Selection of Multi Classification model](#3-selection-of-multi-classification-model-and-4-Comparison-of-model-performance)
+  - [4. Comparison of model performance](#3-selection-of-multi-classification-model-and-4-Comparison-of-model-performance)
+  - [5. Model Evaluation](#5-model-evaluation)
+  - [6. Model Deployment/Prediction](#6-model-deployment/prediction)
 - [Usage](#usage)
 - [Example](#example)
 - [Conclusion](#conclusion)
