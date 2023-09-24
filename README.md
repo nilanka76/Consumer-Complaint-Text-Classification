@@ -1,5 +1,6 @@
 # Consumer Complaint Text Classification
 **Please Read the python notebook for Detailed explanation of each code.**
+[Google Colab link](https://colab.research.google.com/drive/1e3V_PtcRTNgAODTgkQz9COWQ-KTsdv3i?usp=sharing)
 
 This repository contains a fine-tuned LinearSVC model and a Python colab notebook for training, evaluating, and deploying a text classification model for consumer complaints. The model's purpose is to categorize consumer complaints into specific product categories - ["Credit reporting, repair, or other", "Debt collection", "Consumer Loan", "Mortgage"]. This README.md file provides comprehensive documentation, explaining the code's functionality, implementation, and usage.
 
